@@ -1,0 +1,15 @@
+langchain==0.1.16
+langchain-core==0.1.52
+langchain-community==0.0.32
+langchain-openai==0.1.3
+langchain-text-splitters==0.0.1
+
+openai
+pypdf
+tiktoken
+aiofiles
+python-multipart
+PyPDF2
+faiss-cpu
+python-dotenv
+streamlit
